@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border-custom {
+    border-width: 0.46px;
+}
+
+.scroll-hide::-webkit-scrollbar{
+    width: 0;
+    height: 0;
+}
+
+.shadow-custom {
+    box-shadow: 0px 42.9px 93.37px -12.62px #639BA6BA;
+}
